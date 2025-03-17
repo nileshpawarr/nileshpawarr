@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **dev-ops, containerization**
 
-- 👯 I’m looking to collaborate on **anything frontend related**
+- 💬 Ask me about **anything frontend related**
 
-- 🤝 I’m looking for help with **ideas for open source project**
-
-- 💬 Ask me about **Angular, React and Vue**
+- 🤝 I’m looking to collaborate on **any open source project that helps community**
 
 - 📫 How to reach me **work.nileshpawar@gmail.com**
 
